@@ -1,0 +1,22 @@
+project_id = "twyrrbrcwhntqcuimqtz"
+
+[functions.ai-tutor]
+verify_jwt = true
+
+[functions.analyze-test-results]
+verify_jwt = true
+
+[functions.validate-test-answers]
+verify_jwt = true
+
+[functions.generate-questions]
+verify_jwt = true
+
+[functions.generate-progress-report]
+verify_jwt = true
+
+[functions.add-student-to-class]
+verify_jwt = true
+
+[functions.grade-writing]
+verify_jwt = true
